@@ -1,0 +1,117 @@
+.lab1, .trans1{
+	background-color: yellow;
+	padding-bottom: 20px;
+	padding-left: 5px;
+	padding-top: 5px;
+}
+.es1{
+	background-color: red;
+	padding-bottom: 20px;
+	padding-left: 5px;
+	padding-top: 5px;
+	border: 1px solid black;
+}
+
+.lab2, .trans2{
+	display: block;
+	width: 200px;
+	background-color: yellow;
+	padding-bottom: 20px;
+	padding-left: 5px;
+	padding-top: 5px;
+	margin: 10px;
+}
+
+.es2{
+	display: block;
+	width: 200px;
+	background-color: red;
+	padding-bottom: 20px;
+	padding-left: 5px;
+	padding-top: 5px;
+	margin: 10px;
+}
+
+.lab3, .trans3{
+	display: inline;
+	background-color: yellow;
+	padding: 5px;
+}
+
+.es3{
+	display: inline;
+	background-color: red;
+	padding: 5px;
+}
+.lab4, .trans4{
+	width: 210px;
+	height: 70px;
+	display: inline-block;
+	background-color: yellow;
+	padding:5px;
+	margin: 5px;
+
+}
+
+.es4{
+	display: inline-block;
+	background-color: red;
+	padding:5px;
+	width: 180px;
+	height: 70px;
+	margin: 5px;
+
+}
+span{
+	color: black;
+	text-align: center;
+}
+.uno{
+	display: block;
+	background-color: #2FDBB1;
+	width: 30px;
+	height: 30px;
+	padding: 3.5%;
+	margin: 20px 0 20px 10px;
+}
+.siete{
+	display: block;
+	background-color: #A8A844;
+	width: 30px;
+	height: 30px;
+	padding: 3.5%;
+	margin: 20px 0 20px 10px;
+
+}
+.tres_img{
+	display: block;
+	width: 380px;
+	background-color:#9EC854 ;
+	padding: 2%;
+	margin: 10px 0 20px 10px;
+}
+
+.dos, .tres, .cuatro{
+	display: inline-block;
+	background-color: #52967A ;
+	padding: 30px;
+	width: 60px;
+	height: 60px;
+}
+
+.dos_img{
+	display: block;
+	width: 380px;
+	height: 120px;
+	padding-left: 10px;
+	margin: 10px 0 20px 0;
+}
+
+.cinco, .seis{
+	display: inline-block;
+	background-color: #D4739A;
+	padding:30px;
+	width: 60px;
+	height: 60px;
+	
+}
